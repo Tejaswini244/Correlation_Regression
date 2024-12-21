@@ -31,6 +31,7 @@ Register number:24009408
 
 ![280448207-9a1fb86e-4117-4109-8756-07498ba15885](https://github.com/PriyankaAnnadurai/Correlation_Regression/assets/118351569/79cf2734-4776-405b-ae0b-b645f23f97c4)
 
+
 # Result
 
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
